@@ -1,0 +1,12 @@
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll.config
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\bin\Debug\Dapper.dll
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\bin\Debug\DataTransferObject.dll
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\bin\Debug\DataTransferObject.pdb
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\bin\Debug\Dapper.xml
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojAssemblyReference.cache
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+E:\Company_Task\useDapper_.NetfrmWrk\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
